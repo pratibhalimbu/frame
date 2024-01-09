@@ -1,0 +1,161 @@
+body{
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.header{
+    background-color: rgb(156, 155, 155);
+    height: 65px;
+    color: white;
+}
+
+.logo{
+    width: 25px;
+    text-align: center;
+    margin: 16px 40px;
+    box-sizing: border-box;
+    float: left;
+}
+
+ul{
+    font-weight: 100;
+}
+
+ul li{
+    list-style: none;
+    display: inline;
+    margin: 24px 45px 24px 28px;
+    float: right;
+}
+
+.section1{
+    background-color: rgb(232, 232, 232);
+    text-align: center;
+    margin-top: -19px;
+    color: rgb(103, 103, 103);
+    height: 500px;
+}
+
+h1{
+    padding-top: 190px;
+    margin-bottom: 0;
+    font-weight: 400;
+    font-size: 25px;
+    
+}
+
+h2{
+    margin-top: 30px;
+    font-size: 16px;
+    margin-bottom: 0px;
+}
+h3{
+    text-align: center;
+    margin: 30px 0 0 0;
+    color: rgb(171, 171, 171);
+}
+
+p{
+    margin: 4px 0 30px 0;
+    font-size: 8px;
+    text-align: center;
+    color: rgb(171, 171, 171);
+}
+
+.section2{
+    display: flex;
+    justify-content: space-between;
+}
+
+.left{
+    width: 355px;
+    height: 250px;
+    background-color: rgb(232, 232, 232);
+    box-sizing: border-box;
+    float: left;
+    margin-left: 45px;
+}
+
+.middle{
+    width: 355px;
+    height: 250px;
+    background-color: rgb(232, 232, 232);
+    box-sizing: border-box;
+    float: left;
+}
+.right{
+    width: 355px;
+    height: 250px;
+    background-color: rgb(232, 232, 232);
+    box-sizing: border-box;
+    float: left;
+    margin-right: 45px;
+}
+
+.radio{
+    margin: 31px 0 0 583px;
+}
+
+.section3{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(201, 201, 201);
+    height: 420px;
+    margin-top: 31px;
+}
+
+.l1{
+    margin-top: 40px;
+    background-color: rgb(242, 242, 242);
+}
+
+.cap{
+    margin: 280px 0 0 0;
+    color: rgb(102, 102, 102);
+    font-size: 14px; 
+    font-weight: 700;
+}
+
+.cap1{
+    margin-top: 5px;
+    color: rgb(102, 102, 102);
+    font-size: 14px; 
+    font-size: 10px;
+}
+
+.footer{
+    margin: 60px 200px 0 200px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.left2{
+    width: 200px;
+    height: 150px;
+    background-color: rgb(232, 232, 232);
+    box-sizing: border-box;
+    float: left;
+    margin-left: 30px;
+}
+
+
+.right2{
+    width: 200px;
+    height: 150px;
+    background-color: rgb(232, 232, 232);
+    box-sizing: border-box;
+    float: left;
+    margin-left: 30px;
+}
+
+.m2{
+    width: 150px;
+    height: 200px; 
+    box-sizing: border-box;
+    float: left;
+    margin-left: 40px;
+}
+
+.leftalign{
+    text-align: left;
+}
